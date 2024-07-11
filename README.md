@@ -4,7 +4,7 @@
  - In a table we should be able to select multiple cells and paste data in those cells, similar to an EXCEL sheet.
 ## Demo
 
-![Demo](https://s3.ezgif.com/tmp/ezgif-3-bcbf511272.gif)
+![screen-capture (1)](https://github.com/vishaln-simform/custom-excel-table/assets/87745333/82874257-b785-4afd-bd8e-7e51d903788d)
 
 
 ## Author
