@@ -9,5 +9,5 @@
 
 ## Author
 
-- [Vishal Nai](https://github.com/Vishal-Nai)
+- [Vishal Nai](https://in.linkedin.com/in/vishal-nai-3640a5118)
 
